@@ -1,12 +1,12 @@
 # soc
 To set up a Security Operations Center (SOC) in Azure using Terraform, Bicep, ARM template.  
 
-##Overview
+# Overview
 
-##The Main Goal
+# The Main Goal
 
-##Additional Resources
+# Additional Resources
 
-##Contributing
+# Contributing
 
-##License
+# License
